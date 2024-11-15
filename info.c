@@ -1,7 +1,9 @@
-
-// info.c
-// Name: Alexi Castellanos
-// Assignment: Lab 9 - System Calls
+/*************************************************************************
+* Name: Alexi Castellanos
+* Filename: info.c
+* CPE 2600: Lab 9 - System Calls
+* Date: 11/15/24
+***********************************************************************/
 
 #define _GNU_SOURCE
 #include <stdio.h>

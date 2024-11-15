@@ -1,7 +1,10 @@
-// pinfo.c
-// Name: Alexi Castellanos
-// Assignment: Lab 9 - System Calls
-// Section: CPE 2600
+/*************************************************************************
+* Name: Alexi Castellanos
+* Filename: pinfo.c
+* CPE 2600: Lab 9 - System Calls
+* Date: 11/15/24
+***********************************************************************/
+
 
 #define _GNU_SOURCE
 #include <stdio.h>

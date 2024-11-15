@@ -1,6 +1,9 @@
-// Name, etc
-
-// finfo.c
+/*************************************************************************
+* Name: Alexi Castellanos
+* Filename: finfo.c
+* CPE 2600: Lab 9 - System Calls
+* Date: 11/15/24
+***********************************************************************/
 #include <stdio.h>
 #include <sys/stat.h>
 #include <pwd.h>
